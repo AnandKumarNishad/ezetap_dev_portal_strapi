@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "api_details",
+  "info": {
+    "singularName": "api-detail",
+    "pluralName": "api-details",
+    "displayName": "pushtopay",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "ApiDetails": {
+      "type": "richtext"
+    },
+    "startApi": {
+      "type": "richtext"
+    },
+    "statusApi": {
+      "type": "richtext"
+    },
+    "cancelApi": {
+      "type": "richtext"
+    }
+  }
+}

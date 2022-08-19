@@ -1,0 +1,21 @@
+{
+  "kind": "collectionType",
+  "collectionName": "webdatas",
+  "info": {
+    "singularName": "webdata",
+    "pluralName": "webdatas",
+    "displayName": "webdata"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "sequence": {
+      "type": "uid"
+    },
+    "data": {
+      "type": "json"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "codelayouts",
+  "info": {
+    "singularName": "codelayout",
+    "pluralName": "codelayouts",
+    "displayName": "codelayout",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "startCurlRequest": {
+      "type": "json"
+    },
+    "statusCurlRequest": {
+      "type": "json"
+    },
+    "cancelCurlRequest": {
+      "type": "json"
+    }
+  }
+}
